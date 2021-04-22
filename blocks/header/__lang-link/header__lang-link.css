@@ -1,14 +1,8 @@
 .header__lang-link {
     text-decoration: none;
-    width: 30px;
-    height: 28px;
+    font-size: 24px;
     font-weight: normal;
+    font-style: normal;
     line-height: 28px;
     color: #FFFFFF;
-    margin: 0 18px 0 0;
-    padding: 0;
-}
-
-.header__lang-link:last-child {
-    margin-right: 0;
 }
