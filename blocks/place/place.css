@@ -6,7 +6,6 @@
   grid-template-areas:
   "title website"
   "image text";
-  border: 1px solid white;
   margin: 0;
   padding: 0 0 80px;
 }
