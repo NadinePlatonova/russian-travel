@@ -2,5 +2,7 @@
   height: 52px;
   width: 176px;
   border: 1px solid white;
+  object-fit: cover;
+  box-sizing: border-box;
   align-self: flex-end;
 }

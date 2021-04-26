@@ -1,5 +1,5 @@
 .lead__title {
-    max-width: 720px;
+    width: calc(100% - 254px);
     min-height: 200px;
     color: #FFFFFF;
     font-style: normal;
