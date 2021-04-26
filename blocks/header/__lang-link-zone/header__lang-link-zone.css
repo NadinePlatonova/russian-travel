@@ -9,3 +9,9 @@
   padding: 0;
   margin: 0;
 }
+
+@media screen and (max-width: 320px) {
+  .header__lang-link-zone {
+    grid-template-columns: repeat(2, 22px);
+  }
+}
