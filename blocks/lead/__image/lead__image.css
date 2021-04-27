@@ -4,3 +4,11 @@
   margin: 0;
   padding: 0;
 }
+
+@media screen and (max-width: 768px) {
+  .lead__image {
+    position: relative;
+    left: -24px;
+    width: calc(100% + 48px);
+  }  
+}
