@@ -5,3 +5,27 @@
   object-fit: cover;
   grid-area: image;
 }
+
+@media screen and (max-width: 1024px) {
+  .place__image {
+    max-width: 440px;
+    min-height: 440px;
+  } 
+}
+
+@media screen and (max-width: 768px) {
+  .place__image {
+    max-width: 340px;
+    min-height: 340px;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .place__image {
+    max-width: 320px;
+    min-height: 320px;
+    position: relative;
+    left: -16px;
+    width: calc(100% + 32px)
+  }
+}
