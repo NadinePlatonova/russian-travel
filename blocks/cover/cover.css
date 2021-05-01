@@ -7,8 +7,7 @@
 
 @media screen and (min-width: 1024px) and (max-width: 1279px) {
   .cover {
-    left: -48px;
-    width: calc(100% + 96px);
+    max-width: 1024px;
   }
 }
 
