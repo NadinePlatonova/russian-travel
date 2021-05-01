@@ -15,8 +15,6 @@
 
 @media screen and (min-width: 320px) and (max-width: 767px) {
   .lead__image {
-    position: relative;
-    left: -16px;
-    min-width: calc(100% + 32px);
+    min-width: 100%;
   }
 }
