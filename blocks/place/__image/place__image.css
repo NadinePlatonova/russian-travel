@@ -26,6 +26,6 @@
     min-height: 320px;
     position: relative;
     left: -16px;
-    width: calc(100% + 32px)
+    width: calc(100% + 32px);
   }
 }
