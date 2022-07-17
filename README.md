@@ -4,7 +4,7 @@ _An adaptive single page application about Russian cities._
 
 ![header screenshot](./images/preview.png)
 
-**Основной стек:**
+**Stack:**
 
 - HTML;
 - CSS.
