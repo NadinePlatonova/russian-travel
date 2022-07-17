@@ -1,21 +1,27 @@
-# Путешествие по России
-_Одностраничный адаптивный сайт с описанием мест России для путешествий._
+# Travel in Russia
 
-**Основной стек:** HTML, CSS.
+_An adaptive single page application about Russian cities._
 
-**Основной функционал:**
-* адаптивность сайта при разрешениях экрана в 320px, 768px, 1024px и 1280px;
-* переходы по ссылкам на сторонние сайты.
+![header screenshot](./images/preview.png)
 
-**Использованы:**
-* медиазапросы для реализации адаптивности сайта для разрешений экрана;
-* организация файлов по методологии БЭМ.
+**Основной стек:**
 
-**Статус проекта:**
-* проект не завершен, планируются доработки.
+- HTML;
+- CSS.
 
-**Планы на доработку:**
-* добавить медиазапросы для разрешений широких экранов мобильных телефонов (425px);
-* добавить возможность увеличивать картинки на весь экран.
+**Realization:**
 
-[Перейти на сайт](https://nadineplatonova.github.io/russian-travel)
+- flex and grid layouts;
+- media queries for the site adaptability;
+- nested BEM-methodology.
+
+**Project status:**
+
+- not completed, improvements are planned.
+
+**Plans for improvements:**
+
+- to add media queries for mobile phone wide screen resolutions (425px);
+- to add the ability to enlarge images to full screen.
+
+[Here is the link to the web site](https://nadineplatonova.github.io/russian-travel)
